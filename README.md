@@ -38,6 +38,7 @@ personal_info(*x)
 이름:  name
 나이:  age
 주소:  address
+
 **를 두개를 사용했을때
 x = {'name': '홍길동', 'age': 30, 'address': '서울시 용산구'}
 personal_info(**x)
